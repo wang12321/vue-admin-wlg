@@ -27,9 +27,6 @@ ff init <name>
 ```
 
 
-![](https://upload-images.jianshu.io/upload_images/26056473-4d61235b348cbaad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240#id=rS8hl&originHeight=624&originWidth=1134&originalType=binary&status=done&style=none)
-
-
 直接会运行打开项目
 
 
@@ -85,7 +82,7 @@ npm install @sentry/integrations
 
 
 - logo: 'component', // 配置logo 只处理了svg的
-- title: 'Vue Admin Zonst', // 配置title
+- title: 'Vue Admin FF', // 配置title
 - tagsView: true, // 配置导航标签
 - IsSearch: false, // 配置菜单搜索
 - breadcrumb: false, // 配置面包屑
